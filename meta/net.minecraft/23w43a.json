@@ -7,10 +7,10 @@
     ],
     "assetIndex": {
         "id": "10",
-        "sha1": "d79016181b1efea9011303d6ab05d2b07aa6b7c6",
-        "size": 421332,
-        "totalSize": 633668436,
-        "url": "https://bmclapi2.bangbang93.com/v1/packages/d79016181b1efea9011303d6ab05d2b07aa6b7c6/10.json"
+        "sha1": "d49ef3f583cb85072f55a33e89029efe802d166b",
+        "size": 421529,
+        "totalSize": 634696806,
+        "url": "https://bmclapi2.bangbang93.com/v1/packages/d49ef3f583cb85072f55a33e89029efe802d166b/10.json"
     },
     "compatibleJavaMajors": [
         17
