@@ -7,6 +7,9 @@
     "name": "Intermediary Mappings",
     "projectUrl": "https://fabricmc.net",
     "recommended": [
+        "25w33a",
+        "25w32a",
+        "25w31a",
         "1.21.8",
         "1.21.8-rc1",
         "1.21.7",
